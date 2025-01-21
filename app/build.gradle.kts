@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.calculatrice_av"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.calculatrice_av"
